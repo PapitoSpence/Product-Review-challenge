@@ -28,7 +28,7 @@ Requirements
         <li>Run database migrations: rails db:migrate.</li>
         <li>Seed the database: rails db:seed.</li>
         <li>Run the console: rake console.</li>
-        <li>create migration</li></ul>
+        <li>create migration</li>
     
 # Development
 After checking out the repository, run `bundle install` to install dependencies. Then, run `rake console` to run the tests.
