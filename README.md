@@ -21,6 +21,7 @@ Requirements
     Ruby version: 3.0.2
     
 # Installation
+    <ul>
     Clone this repository to your local machine.
     Install dependencies: bundle install.
     Create the database: rails db:create.
