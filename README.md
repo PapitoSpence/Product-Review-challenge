@@ -3,7 +3,7 @@ This is an e-commerce application that allows users to leave reviews for product
 
 # Domain Modeling
 For this app, we have three models, as follows:
-<ul>
+
     <li>User</li>
     <li>Product</li>
     <li>Review</li>
@@ -12,9 +12,6 @@ In our domain, we have:
     A Product that has many Users through Reviews.
     A User that has many Products through Reviews.
     A Review that belongs to a User and a Product.
-    
-    
-       </ul>
     
     
 # Entity Relationship Diagram
