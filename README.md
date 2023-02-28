@@ -22,13 +22,13 @@ Requirements
     
 # Installation
     <ul>
-    Clone this repository to your local machine.
-    Install dependencies: bundle install.
-    Create the database: rails db:create.
-    Run database migrations: rails db:migrate.
-    Seed the database: rails db:seed.
-    Run the console: rake console.
-    create migration
+        <li>Clone this repository to your local machine.</li>
+        <li>Install dependencies: bundle install.</li>
+        <li>Create the database: rails db:create.</li>
+        <li>Run database migrations: rails db:migrate.</li>
+        <li>Seed the database: rails db:seed.</li>
+        <li>Run the console: rake console.</li>
+        <li>create migration</li></ul>
     
 # Development
 After checking out the repository, run `bundle install` to install dependencies. Then, run `rake console` to run the tests.
