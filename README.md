@@ -12,6 +12,8 @@ In our domain, we have:
     A Product that has many Users through Reviews.
     A User that has many Products through Reviews.
     A Review that belongs to a User and a Product.
+    
+    
        </ul>
     
     
