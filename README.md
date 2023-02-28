@@ -3,7 +3,7 @@ This is an e-commerce application that allows users to leave reviews for product
 
 # Domain Modeling
 For this app, we have three models, as follows:
-
+<ul>
     <li>User</li>
     <li>Product</li>
     <li>Review</li>
